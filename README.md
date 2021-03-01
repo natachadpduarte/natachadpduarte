@@ -22,4 +22,4 @@
 
 <div align="left">
  <img align="left"  width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadpduarte&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=merko" />
- <img align="right" width="460px" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&count_private=true&include_all_commits=true&theme=merko" /></div>
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&count_private=true&include_all_commits=true&theme=merko" /></div>
