@@ -6,7 +6,6 @@
 - 🎓: Formada em Sistemas para internet e Processos gerenciais
 - 💻: Bootcamp Generation Brasil - Desenvolvedora Web Full Stack
 - <a href="https://www.linkedin.com/in/natacha-duarte/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
-<br>
 
 # Technologies 💻
 
