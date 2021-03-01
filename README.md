@@ -22,6 +22,7 @@
 
 <div align="left">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&theme=merko"/>	
-</div>
+</div><div align="right">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadpduarte&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=merko"/>	
 
 
