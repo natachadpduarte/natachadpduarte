@@ -1,6 +1,6 @@
 ### HEEEEY Dev's! I'm Natacha & I <img align="center" width="25px" src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png"> code!
 
-<img align="right" width="400px" src="https://github.com/natachadpduarte/natachadpduarte/blob/main/jasmine.gif">
+<img align="right" width="350px" src="https://github.com/natachadpduarte/natachadpduarte/blob/main/jasmine.gif">
 .
 
 - 🎓: Formada em Sistemas para internet e Processos gerenciais
