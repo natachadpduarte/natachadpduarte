@@ -19,7 +19,7 @@
 ![PostgreSQL](https://github.com/natachadpduarte/natachadpduarte/blob/main/postgrSqL.PNG)
 
 
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadpduarte&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=merko"/>	
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&count_private=true&include_all_commits=true&theme=merko" />
-</div>
+
+
+ <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natachadpduarte&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8&theme=merko" />
+ <img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&count_private=true&include_all_commits=true&theme=merko" />
