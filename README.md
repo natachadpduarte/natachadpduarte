@@ -21,6 +21,6 @@
 
 
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&theme=merko">
+<img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&theme=merko"><img height="150em" width="500" src="https://github-readme-stats.vercel.app/api?username=natachadpduarte&show_icons=true&theme=merko">
 </div>
 
